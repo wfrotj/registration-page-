@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  background: url(https://media.tenor.com/Gyr7Or2o5ycAAAAC/technology-path.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.registration-container {
+  width: 450px;
+  background-color: whitesmoke;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  position: absolute;
+  margin: 15em 24em;
+  padding: 2em;
+}
